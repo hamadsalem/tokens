@@ -1,0 +1,15 @@
+{
+  "token": "TIME",
+  "bonding": 88.66,
+  "age": "8",
+  "marketCap": 39833,
+  "liq": 87,
+  "liq_percent": 37,
+  "holders": 221,
+  "bot_percent": 62,
+  "top_10_percent": 28,
+  "dev_percent": 0,
+  "insiders_percent": 0,
+  "bundlers_percent": 3.76,
+  "bots": 136
+}
